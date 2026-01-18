@@ -23,5 +23,4 @@ It demonstrates the use of **arrays, functions, loops, and input validation** to
 1. Clone the repository:
 
 ```bash
-https://github.com/Khurramalisaif/SavingsAccountProject
-.git
+https://github.com/Khurramalisaif/SavingsAccountProject.git
